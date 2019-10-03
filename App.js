@@ -5,7 +5,7 @@ import "./LevelSelector";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Pun Button</Text>
+      <Text>Pun Button Test</Text>
     </View>
   );
 }
